@@ -1,1 +1,13 @@
-# my-work3
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <AssemblyName>EventTicketingSystem</AssemblyName>
+    <RootNamespace>ETS</RootNamespace>
+  </PropertyGroup>
+
+</Project>
